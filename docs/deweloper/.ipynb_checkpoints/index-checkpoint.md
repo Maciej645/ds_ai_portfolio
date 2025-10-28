@@ -1,9 +1,8 @@
 
-# Kreator Inwestycji Mieszkalnej - Agent/ Inwestor zastępczy :
-## 1. zakres :
-       - cały proces od wyszukiwania działek , poprzez  projekty, firmy wykonawcze, rozliczenia, 
-         aspekty formalno-prawne itd.
-## 2. formuła :
+Kreator Inwestycji Mieszkalnej - Agent/ Inwestor zastępczy :
+   a) zakres - cały proces od wyszukiwania działek , poprzez  projekty, firmy wykonawcze, rozliczenia, 
+       aspekty formalno-prawne itd.
+   b) formuła :
        -  doradcza : wszystkie elementy , etapy jako propozycje do zatwierdzenia i wykonania 
        - doradczo-wykonawcza : część elementów jako propozycje , część jako propozycje i po 
           zatwierdzeniu wykonawstwo
