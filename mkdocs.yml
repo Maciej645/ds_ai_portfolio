@@ -1,0 +1,20 @@
+site_name: Moje Projekty
+site_author: Maciej Zgorzelak
+site_description: >-
+    Portfolio moich projektów z Data Science i AI!
+
+repo_name: Maciej645/ds_ai_portfolio
+repo_url: https://github.com/Maciej645/ds_ai_portfolio
+
+theme:
+  name: material
+
+nav:
+- Strona Domowa: index.md
+- Obecny projekt:
+  - "Deweloper": deweloper/index.md
+- Poprzednie projekty:
+  - "Iris": iris/index.md
+  - "Titanic": titanic/index.md
+  - "Halfmarathon_city": halfmarathon_city/index.md
+
